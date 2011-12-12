@@ -20,3 +20,5 @@ rcpt_to.in_host_list
 
 # Queue mail via smtp
 queue/smtp_forward
+
+reseed_rng
